@@ -3,6 +3,20 @@
 本wiki的使命是成为一站式资源，用于全面识别，利用和升级各种数据库管理系统（DBMS）中的SQL注入漏洞。 这个wiki假设您对SQL注入有基本的了解，如果您不熟悉SQL注入，请到[这里](https://www.owasp.org/index.php/SQL_Injection)进行了解。
 
 
+### 中文版本：
+
+[http://sqlwiki.radare.cn](http://sqlwiki.radare.cn)
+
+[https://github.com/kevins1022/SQLInjectionWiki](https://github.com/kevins1022/SQLInjectionWiki)
+
+###  英文版本：
+
+
+[https://sqlwiki.netspi.com/](https://sqlwiki.netspi.com/)
+
+[https://github.com/NetSPI/SQLInjectionWiki](https://github.com/NetSPI/SQLInjectionWiki)
+
+
 ### 关于我们  
 
 #### 英文
