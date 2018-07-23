@@ -23,7 +23,7 @@
 有时可以使用[UTL_FILE](http://www.0xdeadbeef.info/exploits/raptor_oraexec.sql)。检查以下是否为非null
 
 ```code
-SELECT value FROM v$parameter2 WHERE name = 'utl\_file\_dir';
+SELECT value FROM v$parameter2 WHERE name = 'utl_file_dir';
 ```
 
 如果安装了[Java](http://www.0xdeadbeef.info/exploits/raptor_oraexec.sql)（Oracle Express中不可用），可用于读取和写入文件。
