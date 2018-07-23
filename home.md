@@ -6,7 +6,7 @@
 
 ### 第1步：[注入检测](/detection)
 
-### 第2步：[DBMS标识](/dbmsIdentification)
+### 第2步：[DBMS识别](/dbmsIdentification)
 
 ### 第3步：[注入类型](/injectionTypes)
 
