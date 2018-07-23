@@ -16,4 +16,4 @@
 
 ## 贡献
 
-如果您发现某些遗漏或不准确的情况，请随时在我们的[Github](https://github.com/NetSPI/SQLInjectionWiki)上提交请求或问题。
+如果您发现某些遗漏或不准确的情况，请随时在我们的[Github](https://github.com/kevins1022/SQLInjectionWiki/)上提交请求或问题。
