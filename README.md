@@ -7,7 +7,7 @@
 
 [http://sqlwiki.radare.cn](http://sqlwiki.radare.cn)
 
-[https://github.com/kevins1022/SQLInjectionWiki](https://github.com/kevins1022/SQLInjectionWiki)
+[https://github.com/ning1022/SQLInjectionWiki](https://github.com/ning1022/SQLInjectionWiki)
 
 ###  英文版本：
 
